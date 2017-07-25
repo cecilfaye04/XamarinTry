@@ -4,9 +4,10 @@ namespace XamarinTry
 {
     public class MyClass
     {
-        public MyClass()
+        public int Add()
         {
-            var x = "12s";
+            var x = 1 + 1;
+            return x;
         }
     }
 }
