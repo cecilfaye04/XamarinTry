@@ -6,6 +6,7 @@ namespace XamarinTry
     {
         public MyClass()
         {
+            var x = "12";
         }
     }
 }
